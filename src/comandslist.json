@@ -1,0 +1,14 @@
+[
+    {
+        "name": "comandos",
+        "description": "listar comandos"
+    },
+    {
+        "name": "listar",
+        "description": "Lista todos os pets cadastrados"
+    },
+    { "name": "addUser",
+      "description": "adciona um novo usuario"
+
+}
+]
